@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tax Loss Harvesting Tool
 
 A responsive React application that helps users visualize and optimize their cryptocurrency tax strategy through tax loss harvesting.
@@ -118,3 +119,6 @@ tax-loss-harvesting-tool/
 \`\`\`
 
 Let's create a package.json file:
+=======
+# taxi-loss-harvesting
+>>>>>>> 048c5c1b2b0e11b9be7266d0e7ba2b919926fb10
